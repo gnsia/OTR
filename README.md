@@ -1,2 +1,2 @@
-# OTR
+# Over the rainbow
 help color blindness
